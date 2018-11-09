@@ -9,7 +9,7 @@ img {
 }
 
 h1, h2 {
-  colour: #5d8432;
+  color: #5d8432;
   text-transform: uppercase;
 }
 
@@ -17,4 +17,18 @@ figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
+}
+
+nav ol {
+  list-style-type: none;
+}
+
+nav a {
+  color: #793284;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #b42885;
+  text-decoration: underline;
 }
