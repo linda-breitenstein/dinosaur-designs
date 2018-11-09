@@ -20,6 +20,11 @@ figcaption {
   text-align: center;
 }
 
+nav {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
 nav ol {
   list-style-type: none;
 }
