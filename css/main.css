@@ -27,12 +27,13 @@ nav {
 
 nav ol {
   list-style-type: none;
+  font-family: "Patua One", sans-serif;
 }
 
 nav a {
   color: #793284;
   text-decoration: none;
-  font-family: "Patua One", sans-serif;
+
 }
 
 nav a:hover {
